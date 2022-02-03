@@ -13,7 +13,8 @@ PROJETO AUTOMAÇÃO VR - BENEFICIOS
 GUIA DE INSTALAÇÃO
 
 1-Deéndências do Projeto
-   * bundle install
+    bundle install
+    versão do chrome: 97.0.4692.99
    
    
 EXECUÇÃO DOS TESTES
